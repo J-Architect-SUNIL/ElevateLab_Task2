@@ -22,3 +22,8 @@ This project demonstrates **CRUD operations** on student records with two access
 - Command Line I/O using `Scanner`
 - Collections: `ArrayList`, `Iterator`
   
+## ▶️ How to Run
+```bash
+javac Task_2_CLI_based_CRUD_Student_Record_Management_System.java
+java Task_2_CLI_based_CRUD_Student_Record_Management_System
+
